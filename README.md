@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey! Nice to see you.
 
-<!--
-**Jaymeen-Jethva/Jaymeen-Jethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Jaymeen Jethva 😊
 
-Here are some ideas to get you started:
+I'm currently pursuing a PG-Diploma in Data Science and AI from IITB, I'm Looking for Job/Internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Currently looking for an internship/job**  
+📧 [Email me](mailto:jayminjethva7317@gmail.com)
+
+---
+
+### I have technical expertise and interest in:
+- 🧠 **Python, SQL**
+- 🤖 **Machine Learning**
+
+---
+
+### **Languages, Libraries & Tools**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+
+---
+
+### 🌟 **Projects**
+- [Loan Default Risk Analysis using EDA](https://github.com/Jaymeen-Jethva/Loan-Default-Risk-Analysis-using-EDA)
+- [imdb Dataset Analysis using SQL](https://github.com/Jaymeen-Jethva/imdb-Dataset-Analysis-using-SQL)
+- [Tic-Tac-Toe Game](https://github.com/Jaymeen-Jethva/Tic-Tac-Toe-GAME)
+
+---
+
+### 📬 **How to reach me:**
+- [LinkedIn](https://www.linkedin.com/in/jaymeen-jethva/)
+- [Email](mailto:jayminjethva7317@gmail.com)
