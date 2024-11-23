@@ -1,6 +1,6 @@
 # 👋 Hey! Nice to see you.
 
-## I'm Jaymeen Jethva 😊
+## I'm Jaymeen Jethva 
 
 I'm currently pursuing a PG-Diploma in Data Science and AI from IITB, I'm Looking for Job/Internships
 
