@@ -19,7 +19,6 @@ I'm currently pursuing a PG-Diploma in Data Science and AI from IITB, I'm Lookin
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 
 ---
