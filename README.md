@@ -1,17 +1,14 @@
-# 👋 Hey! Nice to see you.
+# 👋 Hey! I'm Jaymeen Jethva.
 
-## I'm Jaymeen Jethva 
-
-I'm currently pursuing a PG-Diploma in Data Science and AI from IITB, I'm Looking for Job/Internships
+I'm passionate about leveraging data, machine learning, and scalable systems to solve real-world problems. Currently, I’m pursuing masters in Data Science from IIIT Bangalore.
 
 💼 **Currently looking for an internship/job**  
-📧 [Email me](mailto:jayminjethva7317@gmail.com)
-
+- [Email me](mailto:jayminjethva7317@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jaymeen-jethva/)
 ---
 
-### I have technical expertise and interest in:
-- 🧠 **Python, SQL**
-- 🤖 **Machine Learning**
+### Coding Profile:
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/38oOk2FsJx/)
 
 ---
 
@@ -30,6 +27,4 @@ I'm currently pursuing a PG-Diploma in Data Science and AI from IITB, I'm Lookin
 
 ---
 
-### 📬 **How to reach me:**
-- [LinkedIn](https://www.linkedin.com/in/jaymeen-jethva/)
-- [Email](mailto:jayminjethva7317@gmail.com)
+
