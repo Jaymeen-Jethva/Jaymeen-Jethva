@@ -8,8 +8,8 @@ I'm passionate about leveraging data, machine learning, and scalable systems to 
 ---
 
 ### Coding Profile:
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/38oOk2FsJx/)
-
+- [![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/38oOk2FsJx/)
+- ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=38oOk2FsJx/&theme=dark)
 ---
 
 ### **Languages, Libraries & Tools**
