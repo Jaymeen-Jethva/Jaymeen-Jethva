@@ -5,11 +5,6 @@ I'm passionate about leveraging data, machine learning, and scalable systems to 
 💼 **Currently looking for an internship/job**  
 - [Email me](mailto:jayminjethva7317@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jaymeen-jethva/)
----
-
-### Coding Profile:
-
-![LeetCode](https://leetcode.com/u/Jaymeen_J/))
 
 ---
 
