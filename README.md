@@ -9,7 +9,7 @@ I'm passionate about leveraging data, machine learning, and scalable systems to 
 
 ### Coding Profile:
 
-- ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jaymeen_J/&theme=dark)
+- ![LeetCode](https://leetcode-stats.vercel.app/api?username=Jaymeen_J/&theme=dark)
 
 ---
 
