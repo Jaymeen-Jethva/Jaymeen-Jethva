@@ -17,6 +17,7 @@ I'm passionate about leveraging data, machine learning, and scalable systems to 
 ---
 
 ### 🌟 **Projects**
+- [Bike Demand Prediction Using Linear Regression](https://github.com/Jaymeen-Jethva/Bike-Demand-Prediction)
 - [Loan Default Risk Analysis using EDA](https://github.com/Jaymeen-Jethva/Loan-Default-Risk-Analysis-using-EDA)
 - [imdb Dataset Analysis using SQL](https://github.com/Jaymeen-Jethva/imdb-Dataset-Analysis-using-SQL)
 - [Tic-Tac-Toe Game](https://github.com/Jaymeen-Jethva/Tic-Tac-Toe-GAME)
