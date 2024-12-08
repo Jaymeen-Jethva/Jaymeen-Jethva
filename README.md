@@ -7,7 +7,10 @@ I'm passionate about leveraging data, machine learning, and scalable systems to 
 - [LinkedIn](https://www.linkedin.com/in/jaymeen-jethva/)
 
 ---
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/Jaymeen_J)
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Jaymeen_J&theme=dark)](https://leetcode.com/Jaymeen_J)
+
 ---
 
 ### **Languages, Libraries & Tools**
