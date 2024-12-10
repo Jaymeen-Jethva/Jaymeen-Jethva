@@ -3,9 +3,9 @@
 
 ### 💡 My areas of interest include:
 
-Predictive Modeling: Developing statistical and machine learning models.
-Exploratory Data Analysis: Uncovering insights through data.
-AI & NLP: Exploring applications of Natural Language Processing and AI-driven technologies
+- Predictive Modeling: Developing statistical and machine learning models.
+- Exploratory Data Analysis: Uncovering insights through data.
+- AI & NLP: Exploring applications of Natural Language Processing and AI-driven technologies
 
 💼 **Currently looking for an internship/job**  
 
