@@ -5,7 +5,8 @@
 
 - Predictive Modeling: Developing statistical and machine learning models.
 - Exploratory Data Analysis: Uncovering insights through data.
-- AI & NLP: Exploring applications of Natural Language Processing and AI-driven technologies
+- Statistical Analysis: Hypothesis testing , Chi-Square testing 
+- AI & DL/NLP: Exploring applications of Natural Language Processing and AI-driven technologies
 
 💼 **Currently looking for an internship/job**  
 
