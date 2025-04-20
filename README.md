@@ -15,9 +15,9 @@
 - [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayminjethva7317@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaymeen-jethva/)
 
-<h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> LeetCode Stats </h3>
+<!-- <h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> LeetCode Stats </h3> -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Jaymeen_J)](https://leetcode.com/Jaymeen_J)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/Jaymeen_J)](https://leetcode.com/Jaymeen_J) -->
 
 ---
 
