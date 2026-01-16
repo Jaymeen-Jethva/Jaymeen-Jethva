@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m Jaymeen Jethva  
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI animation" />
 
-**Data Science & GenAI Engineer**  
-I design and build practical intelligent systems that combine modern machine learning, large language models, and automation to solve real problems.
+### ⚡ Accelerating Intelligence | AI Systems, GenAI & Smart Automations   
+I am an AI enthusiast building intelligent systems and automation pipelines that blend generative models, retrieval engines, and real-world workflows.
 
-- 🤖 Expertise in **Generative AI, Retrieval-Augmented Generation, and multi-agent pipelines**  
-- 🔧 Skilled in architecting AI workflows with vector databases (Weaviate), LangChain-style pipelines, and embedding strategies  
-- 📈 Applied ML & Deep Learning (CNNs, LSTM/GRU, TensorFlow/Keras) — building models that scale beyond experiments  
+- 🤖 Building advanced **GenAI & RAG workflows** with multi-agent orchestration  
+- 🧠 Engineering scalable AI systems using **Weaviate, LangChain-style pipelines, embeddings**  
+- 📊 Applying **Machine Learning & Deep Learning (CNNs, LSTM/GRU, Transformers)** for robust solutions  
   
 ---
 
