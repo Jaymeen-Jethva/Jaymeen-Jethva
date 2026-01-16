@@ -1,32 +1,46 @@
-## 👋 Hi! I'm Jaymeen Jethva.
-- I'm a Data Science and AI Enthusiast currently pursuing a Master’s in Data Science & Artificial Intelligence at IIIT Bangalore. I’m passionate about solving real-world problems using data-driven solutions, with expertise in Python, SQL, and Machine Learning.
+## 👋 Hi, I’m Jaymeen Jethva  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI animation" />
 
-### 💡 My areas of interest include:
+**Data Science & GenAI Engineer**  
+I design and build practical intelligent systems that combine modern machine learning, large language models, and automation to solve real problems.
 
-- Gen-AI: Gen-AI based applications, Agentic AI 
-- Predictive Modeling: Developing statistical and machine learning models.
-- AI & DL/NLP: Exploring applications of Natural Language Processing and AI-driven technologies
-- Exploratory Data Analysis: Uncovering insights through data.
+- 🤖 Expertise in **Generative AI, Retrieval-Augmented Generation, and multi-agent pipelines**  
+- 🔧 Skilled in architecting AI workflows with vector databases (Weaviate), LangChain-style pipelines, and embedding strategies  
+- 📈 Applied ML & Deep Learning (CNNs, LSTM/GRU, TensorFlow/Keras) — building models that scale beyond experiments  
+  
+---
 
-<!--💼 **Currently looking for an internship/job**  -->
+## 🛠 Tech Stack
 
-<h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> Connect with me </h3>
+<!-- Languages -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayminjethva7317@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaymeen-jethva/)
+<!-- Libraries & Frameworks -->
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
-<h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> LeetCode Stats </h3> 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Jaymeen_J)](https://leetcode.com/Jaymeen_J) 
+<!-- GenAI & Tools -->
+![LangChain](https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=green)  
+![Weaviate](https://img.shields.io/badge/Weaviate-0F0F0F?style=for-the-badge&logo=weaviate&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### **Languages, Libraries & Tools**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Sci-kit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+## 🧠 LeetCode Stats  
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Jaymeen_J" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+If you're building **Data Science or GenAI solutions**, working on **RAG systems, agent-based AI, or automation tools**, or shaping a POC, I’d love to connect and explore possibilities!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayminjethva7317@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaymeen-jethva/)
+
+---
