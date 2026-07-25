@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Jaymeen Jethva  
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="AI animation" />
 
+![Portfolio](https://jaymeen-jethva-portfolio.vercel.app/)
+
 ### ⚡ Accelerating Intelligence | AI Systems, GenAI & Smart Automations   
 I am an AI enthusiast building intelligent systems and automation pipelines that blend generative models, retrieval engines, and real-world workflows.
 
